@@ -26,7 +26,7 @@
 
 ### 🔍 Domain Analytics
 ![Customer Churn Analysis](https://github.com/Ritik07777/Customer-Churn-Analysis)
-![Supply Chain Analytics](https://img.shields.io/badge/Supply%20Chain%20Analytics-%230F6E56.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Supply Chain Analytics](https://img.shields.io/badge/Supply%20Chain%20Analytics-%230F6E56.svg?style=for-the-badge&logo=databricks&logoColor=whitehttps://github.com/Ritik07777/Customer-Churn-Analysis)
 ![Banking Fraud Analytics](https://img.shields.io/badge/Banking%20Fraud%20Analytics-%23D4537E.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🔧 Tools

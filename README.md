@@ -25,7 +25,7 @@
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-%23533AB7.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ### 🔍 Domain Analytics
-[![Customer Churn Analysis](https://img.shields.io/badge/Customer%20Churn%20Analysis-%230A0A0A.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritik07777/Customer-Churn-Analysis)
+[![Customer Churn Analysis](https://img.shields.io/badge/Customer%20Churn%20Analysis-%230A0A0A.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritikcodex-ai/Customer-Churn-Analysis)
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

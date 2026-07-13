@@ -45,7 +45,7 @@ of a consultant with the technical depth of an engineer.
 <td width="50%" valign="top">
 
 **🎯 Focused on**
-- Landing an entry-level Data Analyst role at a top consulting or IT services firm
+- Data Analyst role at a top consulting or IT services firm
 - Sharpening SQL window functions & advanced DAX under interview conditions
 - Completing the Google Data Analytics Professional Certificate
 

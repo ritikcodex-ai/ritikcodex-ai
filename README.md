@@ -26,6 +26,7 @@
 
 ### 🔍 Domain Analytics
 [![Customer Churn Analysis](https://img.shields.io/badge/Customer%20Churn%20Analysis-%230A0A0A.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritikcodex-ai/Customer-Churn-Analysis)
+[![Bank Marketing Campaign Analytics](https://img.shields.io/badge/Bank%20Marketing%20Campaign%20Analytics-%230A0A0A.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritikcodex-ai/bank-campaign-analytics)
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

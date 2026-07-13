@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=900&color=94A3B8&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI;Microsoft+PL-300+Certified;Turning+Raw+Data+Into+Business+Decisions;Open+to+Entry-Level+Data+Analyst+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=900&color=94A3B8&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI;Deloitte+Australia+Data+Analytics+Job+Simulation;Building+Business-Focused+Analytics+Solutions;Turning+Raw+Data+Into+Business+Decisions" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,7 +20,11 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+<div align="center">
+
+<sub>• • •</sub>
+
+</div>
 
 <br/>
 
@@ -34,7 +38,11 @@ of a consultant with the technical depth of an engineer.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+<div align="center">
+
+<sub>• • •</sub>
+
+</div>
 
 <br/>
 
@@ -45,7 +53,7 @@ of a consultant with the technical depth of an engineer.
 <td width="50%" valign="top">
 
 **🎯 Focused on**
-- Data Analyst role at a top consulting or IT services firm
+- Landing an entry-level Data Analyst role at a top consulting or IT services firm
 - Sharpening SQL window functions & advanced DAX under interview conditions
 - Completing the Google Data Analytics Professional Certificate
 
@@ -63,20 +71,34 @@ of a consultant with the technical depth of an engineer.
 
 <br/>
 
-## 🧭 Timeline
+## 🚀 Currently Building
 
 <table align="center">
-<tr><td width="120" align="center"><b>2023 – 2026</b></td><td>🎓 <b>BCA</b>, Asian School of Business, Noida — graduating 2026</td></tr>
-<tr><td align="center"><b>2025</b></td><td>🏅 <b>Microsoft PL-300</b> — Power BI Data Analyst Associate</td></tr>
-<tr><td align="center"><b>2025</b></td><td>📊 Shipped <b>Telecom Customer Churn Analysis</b> — MySQL · Python · 46-measure DAX library</td></tr>
-<tr><td align="center"><b>2026</b></td><td>🏦 Shipped <b>Bank Term Deposit Campaign Analytics</b> — 45K-record consulting-grade case study</td></tr>
-<tr><td align="center"><b>2026</b></td><td>📜 Completing <b>Google Data Analytics Professional Certificate</b></td></tr>
-<tr><td align="center"><b>Next</b></td><td>💼 Entry-level Data Analyst role — consulting or enterprise IT services</td></tr>
+<tr>
+<td width="50%" valign="top">
+
+- 🧱 Portfolio-grade analytics projects modeled on real consulting case studies
+- 🗃️ Advanced SQL practice — window functions, CTEs, query optimization
+- 📊 Power BI dashboard development with production-style DAX libraries
+
+</td>
+<td width="50%" valign="top">
+
+- 🐍 End-to-end Python analytics workflows — cleaning, EDA, storytelling
+- 🤖 Early exploration of machine learning for predictive analytics
+- 🗣️ Data storytelling — translating raw numbers into decisions
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+<div align="center">
+
+<sub>• • •</sub>
+
+</div>
 
 <br/>
 
@@ -126,7 +148,34 @@ of a consultant with the technical depth of an engineer.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+<div align="center">
+
+<sub>• • •</sub>
+
+</div>
+
+<br/>
+
+## 🧠 Data Analyst Expertise
+
+<table align="center">
+<tr>
+<td align="center" width="16.6%">🧹<br/><b>Data Cleaning</b></td>
+<td align="center" width="16.6%">📈<br/><b>Business Analytics</b></td>
+<td align="center" width="16.6%">📊<br/><b>Dashboard Development</b></td>
+<td align="center" width="16.6%">🗃️<br/><b>SQL Analysis</b></td>
+<td align="center" width="16.6%">🎨<br/><b>Data Visualization</b></td>
+<td align="center" width="16.6%">🤖<br/><b>ML Exploration</b></td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<sub>• • •</sub>
+
+</div>
 
 <br/>
 
@@ -137,11 +186,13 @@ of a consultant with the technical depth of an engineer.
 <td width="50%" valign="top">
 <h3>🏦 Bank Term Deposit Campaign Analytics</h3>
 
-Consulting-grade analysis of a 45,211-record marketing campaign for a fictional banking client, built to answer one question — *who should we call next?*
+**Business Problem:** A retail bank's telemarketing team was calling its full customer base with no way to prioritize who was actually likely to convert — wasting agent hours on low-probability leads.
 
-**Stack:** MySQL · Python (EDA) · Power BI · DAX
+**Approach:** Cleaned and modeled 45,211 campaign records in MySQL, ran exploratory analysis in Python to surface conversion drivers, then built a Power BI dashboard segmenting customers by conversion likelihood.
 
-**Impact:** 9 production SQL scripts, a 38-cell EDA notebook, and a full dashboard spec identifying the highest-conversion customer segments for the client's next campaign.
+**Technology:** MySQL · Python (EDA) · Power BI · DAX
+
+**Business Impact:** Delivered 9 production SQL scripts, a 38-cell EDA notebook, and a dashboard spec pinpointing the highest-conversion segments — turning a blanket outreach campaign into a targeted one.
 
 [![Repo](https://img.shields.io/badge/View%20Repository-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritikcodex-ai/bank-campaign-analytics)
 
@@ -149,11 +200,13 @@ Consulting-grade analysis of a 45,211-record marketing campaign for a fictional 
 <td width="50%" valign="top">
 <h3>📉 Telecom Customer Churn Analysis</h3>
 
-End-to-end churn diagnostic on the IBM Telco dataset (7,043 customers), built to pinpoint exactly where and why revenue walks out the door.
+**Business Problem:** A telecom provider needed to understand where and why customers were leaving before retention spend could be targeted effectively.
 
-**Stack:** MySQL 8.0 · Python · Power BI · DAX (46-measure library)
+**Approach:** Queried and profiled 7,043 customer records in MySQL 8.0, engineered a 46-measure DAX library, then designed a 3-page Power BI dashboard breaking churn down by contract type, tenure, and service usage.
 
-**Impact:** A 3-page interactive Power BI dashboard translating raw churn data into segment-level retention insight.
+**Technology:** MySQL 8.0 · Python · Power BI · DAX
+
+**Business Impact:** Surfaced the customer segments driving the highest churn risk, giving a retention team a clear, data-backed starting point for intervention.
 
 [![Repo](https://img.shields.io/badge/View%20Repository-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritikcodex-ai/Customer-Churn-Analysis)
 
@@ -163,7 +216,30 @@ End-to-end churn diagnostic on the IBM Telco dataset (7,043 customers), built to
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+<div align="center">
+
+<sub>• • •</sub>
+
+</div>
+
+<br/>
+
+## 📈 Analytics Impact
+
+<table align="center">
+<tr><td align="center" width="25%">📊<br/><b>52,000+</b><br/>records analyzed</td>
+<td align="center" width="25%">🧮<br/><b>50+</b><br/>DAX measures built</td>
+<td align="center" width="25%">🗃️<br/><b>9+</b><br/>SQL business queries</td>
+<td align="center" width="25%">📈<br/><b>2</b><br/>interactive Power BI dashboards</td></tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<sub>• • •</sub>
+
+</div>
 
 <br/>
 
@@ -186,21 +262,29 @@ End-to-end churn diagnostic on the IBM Telco dataset (7,043 customers), built to
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+<div align="center">
+
+<sub>• • •</sub>
+
+</div>
 
 <br/>
 
 ## 🏆 Achievements
 
 <table align="center">
-<tr><td>🏅</td><td><b>Microsoft PL-300</b> — Power BI Data Analyst Associate</td></tr>
+<tr><td>🏅</td><td><b>Deloitte Australia — Data Analytics Job Simulation</b> (Forage) — completed a practical, business-focused data analytics simulation applying data analysis and visualization concepts</td></tr>
 <tr><td>📜</td><td><b>Google Data Analytics Professional Certificate</b> — in progress</td></tr>
 <tr><td>📈</td><td>2 consulting-grade portfolio projects spanning <b>52,000+ records</b> of real-world data</td></tr>
 </table>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+<div align="center">
+
+<sub>• • •</sub>
+
+</div>
 
 <br/>
 
@@ -209,8 +293,6 @@ End-to-end churn diagnostic on the IBM Telco dataset (7,043 customers), built to
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/ritikcodex-ai/ritikcodex-ai/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<!-- USER INPUT REQUIRED: this snake animation needs the "platane/snk" GitHub Action set up on the ritikcodex-ai/ritikcodex-ai repo to generate the SVG above -->
 
 </div>
 
@@ -224,7 +306,11 @@ End-to-end churn diagnostic on the IBM Telco dataset (7,043 customers), built to
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px"/>
+<div align="center">
+
+<sub>• • •</sub>
+
+</div>
 
 <br/>
 
@@ -245,5 +331,4 @@ End-to-end churn diagnostic on the IBM Telco dataset (7,043 customers), built to
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=100&section=footer" width="100%"/>
-
 

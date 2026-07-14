@@ -52,7 +52,11 @@ of a consultant with the technical depth of an engineer.
 
 <h3>💻 Tech Distribution</h3>
 
-<img src="./assets/tech-distribution.svg" width="90%"/>
+<div align="center">
+
+<img src="./assets/tech-distribution.svg" width="70%"/>
+
+</div>
 
 </td>
 

@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=900&color=94A3B8&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI;Deloitte+Australia+Data+Analytics+Job+Simulation;Building+Business-Focused+Analytics+Solutions;Turning+Raw+Data+Into+Business+Decisions;Data Analyst - Big 4 Ready(Deloitte, EY, KPMG, PwC) Certification By OneRoadmap" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=900&color=94A3B8&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI;Deloitte+Australia+Data+Analytics+Job+Simulation;Building+Business-Focused+Analytics+Solutions;Turning+Raw+Data+Into+Business+Decisions;Data Analyst - Big+4+Ready(Deloitte, EY, KPMG, PwC)+Certification+By+OneRoadmap" alt="Typing SVG" />
 </a>
 
 <br/><br/>

@@ -48,22 +48,13 @@ of a consultant with the technical depth of an engineer.
 
 ## 📍 Currently
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
 <td width="50%" valign="top" align="center">
 
-<h3>💻 Most Used Languages</h3>
+### 💻 Tech Snapshot
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikcodex-ai&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1&langs_count=8"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikcodex-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1&langs_count=6"/>
 
 </td>
-
-</td>
-<td width="50%" valign="top">
 
 **🚀 Open to**
 - Data Analyst · Business Analyst · BI Analyst roles

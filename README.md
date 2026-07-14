@@ -47,7 +47,7 @@ of a consultant with the technical depth of an engineer.
 
 <br/>
 
-## 📍 Currently
+
 
 <td width="50%" valign="top" align="center">
 

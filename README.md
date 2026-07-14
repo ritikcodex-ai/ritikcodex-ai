@@ -52,10 +52,15 @@ of a consultant with the technical depth of an engineer.
 <tr>
 <td width="50%" valign="top">
 
-**🎯 Focused on**
-- Landing an entry-level Data Analyst role at a top consulting or IT services firm
-- Sharpening SQL window functions & advanced DAX under interview conditions
-- Completing the Google Data Analytics Professional Certificate
+<td width="50%" valign="top" align="center">
+
+<h3>💻 Most Used Languages</h3>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikcodex-ai&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1&langs_count=8"
+/>
+
+</td>
 
 </td>
 <td width="50%" valign="top">

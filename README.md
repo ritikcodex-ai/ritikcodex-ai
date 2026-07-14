@@ -33,11 +33,11 @@
 <h2 align="center">Precision in the Data. Clarity in the Story.</h2>
 
 <p align="center" style="max-width: 700px;">
-I turn spreadsheets nobody wants to open into dashboards executives actually act on.<br/>
-Final-year BCA student at Asian School of Business, Noida — building the analytical rigor<br/>
-of a consultant with the technical depth of an engineer.
-</p>
 
+Transforming raw data into actionable insights through SQL, Python, Power BI, and business storytelling.<br/>
+Building portfolio-grade analytics solutions that combine technical precision with real-world business impact.
+
+</p>
 <br/>
 
 <div align="center">

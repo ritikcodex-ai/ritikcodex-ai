@@ -50,9 +50,9 @@ of a consultant with the technical depth of an engineer.
 
 <td width="50%" valign="top" align="center">
 
-### 💻 Tech Snapshot
+<h3>💻 Tech Distribution</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikcodex-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1&langs_count=6"/>
+<img src="./assets/tech-distribution.svg" width="90%"/>
 
 </td>
 

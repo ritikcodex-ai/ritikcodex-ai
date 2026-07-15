@@ -262,8 +262,8 @@ of a consultant with the technical depth of an engineer.
 ## 🏆 Achievements
 
 <table align="center">
-<tr><td>🏅</td><td><b>Deloitte Australia — Data Analytics Job Simulation</b> (Forage) — completed a practical, business-focused data analytics simulation applying data analysis and visualization concepts</td></tr>
-<tr><td>📜</td><td><b>Google Data Analytics Professional Certificate</b> — in progress</td></tr>
+<tr><td>🏅</td><td><b>Deloitte Australia — Data Analytics Job Simulation</b> (Forage) — completed a practical, business-focused data analytics simulation applying data analysis and visualization concepts</td</tr>
+<tr><td>📜</td><td><b>Data Analyst - Big 4 Ready(Deloitte,EY,KPMG,and PwC) certified</b> — OneRoadmap</td></tr>
 <tr><td>📈</td><td>2 consulting-grade portfolio projects spanning <b>52,000+ records</b> of real-world data</td></tr>
 </table>
 

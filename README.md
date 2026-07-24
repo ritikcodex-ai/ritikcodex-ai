@@ -247,7 +247,7 @@ of a consultant with the technical depth of an engineer.
 
 ## 📊 GitHub Analytics
 
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ritikcodex-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> <img width="49%" src="https://streak-stats.demolab.com?user=ritikcodex-ai&theme=tokyonight&hide_border=true"/> </div> <br/> <div align="center">
+<div align="center"> <img src="https://streak-stats.demolab.com?user=ritikcodex-ai&theme=tokyonight&hide_border=true"/> </div> <br/> <div align="center">
 
 <sub>• • •</sub>
 
